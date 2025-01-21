@@ -1,3 +1,3 @@
-# Journal Title
+# Alex Baron Journal
 
 Journal narrative
