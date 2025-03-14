@@ -1,7 +1,7 @@
 <h1>Alex Baron Journal</h1>
 
 <h2>Journal Entry #1</h2>
-Subaru Crosstrek
+Subaru Crosstrek<br>
 Alexander Baron 03-14-25
 
 
