@@ -2,7 +2,7 @@
 
 <h2>Journal Entry #1</h2>
 Subaru Crosstrek<br><br>
-Alexander Baron 03-14-25<br><br>
+*Alexander Baron* <br> 03-14-25<br><br>
 
 
   When I am driving my Subaru Crosstrek 2021, and I come to a stop, the car turns off on its own. At first I was very confused why this happened. I found out that there was a feature in the Crosstrek that turns the car off to save fuel 
