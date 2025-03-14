@@ -2,7 +2,7 @@
 
 <h2>Journal Entry #1</h2>
 Subaru Crosstrek<br>
-Alexander Baron 03-14-25
+Alexander Baron 03-14-25<br><br>
 
 
 
