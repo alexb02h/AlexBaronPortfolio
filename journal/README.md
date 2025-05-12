@@ -10,6 +10,8 @@
 
 ![Subaru Auto-Turn Off Button!](download.jpg)
   
-  At first I was very confused why this happened. I found out that there was a feature in the Crosstrek that turns the car off to save fuel or something. I've learned to turn it off by pressing a button to the left of the wheel. I've sort of created a **mental model**, where I can just turn it off without having to search for the button. It's cool because when I do successfully hit the button, the engine turns back on, so I am getting **feedback** telling me whether or not I pressed the right button.
+  Over time, I developed a **mental model**: I now associate that specific symbol (the circular arrow tih an "A") with the Auto Stop-Start system. Because I've learned the button's location and function through repeated use, I can now instinctively reach for it without searching. When I press it, I get immediate feedback: the engine restarts, and the green dashboard icon disappears. This kind of **feedback**- direct and immediate - helps reinforce the action.
+
+  I did find the learning curve slightly frustrating. There was no audible cue or detailed explanation from the dashboard interface when the feature was first activated. The button itself wasn't prominently labeled, I had to rely on matching symbols to figure things out. A suggestion for improvement could be providing a short tooltip or message on the dashboard the first time the feature activates, this would've clarified things quickly. Additionally, placing the button in a more visible or intuitive location would help first-time users.
 
 
